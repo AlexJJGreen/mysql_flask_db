@@ -1,1 +1,3 @@
-mysqlenv 
+mysqlenv/
+congif.py
+password.py
